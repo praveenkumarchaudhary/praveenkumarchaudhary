@@ -1,36 +1,169 @@
-# Hi,I'm Praveen Kumar Chaudhary
-** passionate Web Developer | Turning Ideas into Reality **
+<div align="center">
 
-Email Me 👉 ✉️ **praveen707040@gmail.com** For Collaboration/Project or Anything Else. 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Praveen%20Kumar%20Chaudhary&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Developer%20|%20Problem%20Solver&descAlignY=60"/>
 
+# Hi 👋, I'm Praveen Kumar Chaudhary
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/praveenkrchaudhary) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/praveen.chaudhary.45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/praveen-kumar-chaudhary-6b7217324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveen707040@gmail.com) 
+### Frontend Developer | React Enthusiast | B.Tech CSE Student
 
-<!-- Snake Game Repo View -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+Developer;MERN+Stack+Learner;Problem+Solver;Open+Source+Enthusiast" />
 
- <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> 
+<p>
+<img src="https://komarev.com/ghpvc/?username=praveenkumarchaudhary&label=Profile+Views&style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/followers/praveenkumarchaudhary?style=for-the-badge&logo=github"/>
+</p>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=praveenkumarchaudhary&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=praveenkumarchaudhary&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=praveenkumarchaudhary&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=praveenkumarchaudhary&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=praveenkumarchaudhary&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=praveenkumarchaudhary&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👨‍💻 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 🎓 **B.Tech Computer Science & Engineering**
+- 💼 **Frontend Developer** focused on React.js
+- 🌱 Currently learning **Node.js, Express.js & MongoDB**
+- 🧠 Solving **Data Structures & Algorithms** in C++
+- 🚀 Building impactful projects like **EcoSense** and **FairFix**
+- 🤝 Open to collaboration on Web Development & Open Source
+- ⚡ Fun fact: *I enjoy transforming ideas into interactive web experiences.*
+
+<br clear="right"/>
+
+
+<br clear="right"/>
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+## 🌿 EcoSense
+
+A smart navigation platform designed to provide safer and more efficient travel.
+
+✨ Features
+
+- 🌱 Pollution-Aware Routes
+- 👩 Women's Safety Routes
+- ⚡ Fastest Route Optimization
+- 🏥 Nearby Hospitals & Police Stations
+- 🌦️ Live Weather Alerts
+- 🗺️ Interactive Navigation
+
+---
+
+## 🔧 FairFix
+
+An AI-powered vehicle repair price transparency platform.
+
+✨ Features
+
+- 🤖 AI Repair Cost Prediction
+- 💰 Overcharge Detection
+- 📍 Nearby Verified Repair Shops
+- ⭐ Ratings & Reviews
+- 📊 Transparent Price Comparison
+- 📷 Image-Based Damage Analysis
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=praveenkumarchaudhary&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarchaudhary&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=praveenkumarchaudhary&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenkumarchaudhary&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=praveenkumarchaudhary&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/praveenkumarchaudhary" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
+
+
+---
+
+<div align="center">
+
+### 💭 Quote
+
+> **"Code. Learn. Build. Improve. Repeat."**
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:06B6D4,50:2563EB,100:4F46E5"/>
