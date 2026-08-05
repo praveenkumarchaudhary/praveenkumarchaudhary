@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Praveen%20Kumar%20Chaudhary&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Developer%20|%20Problem%20Solver&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Praveen%20Kumar%20Chaudhary&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20Developer%20|%20Problem%20Solver&descAlignY=60"/>
 
 # Hi 👋, I'm Praveen Kumar Chaudhary
 
-### Frontend Developer | React Enthusiast | B.Tech CSE Student
+### Full Stack Developer | React Enthusiast | B.Tech CSE Student
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+Developer;MERN+Stack+Learner;Problem+Solver;Open+Source+Enthusiast" />
 
@@ -21,8 +21,8 @@
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - 🎓 **B.Tech Computer Science & Engineering**
-- 💼 **Frontend Developer** focused on React.js
-- 🌱 Currently learning **Node.js, Express.js & MongoDB**
+- 💼 **Full Stack Developer** focused on React.js
+- 🌱 Currently learning **Python , Docker & MongoDB**
 - 🧠 Solving **Data Structures & Algorithms** in C++
 - 🚀 Building impactful projects like **EcoSense** and **FairFix**
 - 🤝 Open to collaboration on Web Development & Open Source
